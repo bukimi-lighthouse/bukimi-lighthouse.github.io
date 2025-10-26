@@ -141,7 +141,6 @@ p.center{
     /*z-index: -1;*/
     max-width:100%;
     height :auto;
-    /*background-image:url("../images/bukimi_hero_banshee.jpg");*/
     background-position:center;
 }
 #hero_img_sp{
@@ -149,7 +148,6 @@ p.center{
     display:none;
     max-width:100%;
     height :800px;
-    /*background-image:url("../images/bukimi_hero_banshee.jpg");*/
 }
 
 .head_nav{
